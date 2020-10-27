@@ -15,8 +15,8 @@ background:
     education: in college
     employment: retired
     occupation:
-        title: 'cause fvck work at
-        employer: the Capitalists' machine
+        title: "'cause fvck work at"
+        employer: "the Capitalists' machine"
     religion:
         value: agnostic
         modifier: but it's not important
