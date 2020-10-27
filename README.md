@@ -30,8 +30,8 @@ family:
     has kids: doesn't have kids
     wants kids:
     pets:
----
-# About Me: My self-summery
+--
+# About Me | My self-summery
 Me. Always. At all times → 🤔🔍🤔
 　
 
@@ -43,7 +43,7 @@ and the (non-)answers "Because." and "It just is/does." got no one anywhere, eve
 
 INTP
 
-# Aspirations: Current goal
+# Aspirations | Current goal
 I'm of myriad, concurrent goals; got goals for days and goals on goals –metagoals? higher-order goals? ¯\_(ツ)_/¯
 Here's one…
 
@@ -54,5 +54,5 @@ Oh yeah, as of late, I've been wanting to learn how to work on cars (body work, 
 
 日本語 (Japanese), too! Getting better at it is a goal. I frequently study and practice (though, I haven't been for long) and'd be glad to do so with anyone interested.
 
-# Talent: I could probably beat you at
+# Talent | I could probably beat you at
 being the farthest left.
