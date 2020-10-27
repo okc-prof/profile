@@ -30,7 +30,7 @@ family:
     has kids: doesn't have kids
     wants kids:
     pets:
---
+---
 # About Me | My self-summery
 Me. Always. At all times → 🤔🔍🤔
 　
